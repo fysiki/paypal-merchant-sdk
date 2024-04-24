@@ -58,7 +58,7 @@ To use the SDK,
 {
     "name": "me/shopping-cart-app",
     "require": {
-        "protonlabs/paypal-merchant-sdk-php":"3.8.*"
+        "fysiki/paypal-merchant-sdk-php":"3.8.*"
     }
 }
 ```
