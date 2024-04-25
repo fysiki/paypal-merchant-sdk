@@ -13,7 +13,7 @@
     "require": {
         "php": ">=5.4.0",
         "ext-curl": "*",
-        "fysiki/paypal-sdk-core-php": "v3.4.3"
+        "fysiki/paypal-sdk-core-php": "3.4.3"
     },
     "replace": {
         "paypal/merchant-sdk-php":"3.*"
